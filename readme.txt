@@ -19,4 +19,6 @@ Anleitung
 
 3. Lade 'index.html' und 'background.jpg' auf deine Domain, um die Website zu veröffentlichen
 
+Noch keine Domain? Siehe https://launch.plue.me/hosting.html
+
 Noch Fragen? Finde Antworten unter https://launch.plue.me/faq.html

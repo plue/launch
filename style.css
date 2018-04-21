@@ -23,6 +23,7 @@ body {
   color: inherit;
   min-height: 100%;
   padding: 10%;
+  padding-bottom: 50px;
   position: relative;
   line-height: 1.5;
 }

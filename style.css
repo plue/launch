@@ -8,8 +8,6 @@ Page
 */
 
 html {
-  background: transparent url("background.jpg") left center no-repeat fixed;
-  background-size: cover;
   color: #fff;
   font-size: 20px;
   height: 100%;
@@ -23,9 +21,12 @@ body {
   color: inherit;
   min-height: 100%;
   padding: 10%;
-  padding-bottom: 50px;
+  padding-bottom: 90px;
   position: relative;
   line-height: 1.5;
+  background: #111 url("background.jpg") left center no-repeat fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
 }
 
 #page {

@@ -1,16 +1,15 @@
 
 Launch
-======
+===
 
 Website Vorlage für deine unabhängige Landingpage.
-
 Ganz einfach. Ganz umsonst.
 
 https://plue.es/launch
 
 
 Anleitung
----------
+---
 
 1. Öffne die 'index.html' in einem Browser, um die Website anzusehen (Doppelklick)
 
@@ -19,3 +18,9 @@ Anleitung
 3. Lade die 'index.html' in das Rootverzeichnis deiner Domain, um die Website zu veröffentlichen.
 
 Noch Fragen? Schreibe an hallo@plue.es
+
+
+Version
+---
+
+14.01.2020

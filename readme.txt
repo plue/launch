@@ -17,7 +17,7 @@ Anleitung
 
 3. Lade die 'index.html' in das Rootverzeichnis deiner Domain, um die Website zu veröffentlichen.
 
-Noch Fragen? Schreibe an hallo@plue.es
+Noch Fragen? Schreibe uns via https://plue.es/kontakt
 
 
 Version

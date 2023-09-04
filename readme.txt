@@ -5,7 +5,7 @@ Launch
 Website Vorlage für deine unabhängige Landingpage.
 Ganz einfach. Ganz umsonst.
 
-https://plue.es/launch
+https://launch.plue.es
 
 
 Anleitung
